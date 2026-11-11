@@ -88,7 +88,7 @@ const projects = [
         id: 1,
         title: "Luxury Brand Identity",
         category: "BRANDING",
-        image: "https://images.unsplash.com/photo-1634942536790-2532d7c1a8c2?w=800",
+        image: "./images/Photo-3.jpg",
         description: "A complete visual identity concept designed to create a memorable and elegant brand experience."
     },
 
@@ -96,7 +96,7 @@ const projects = [
         id: 2,
         title: "Creative Web Design",
         category: "WEB DESIGN",
-        image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
+        image: "./images/Photo-4.jpg",
         description: "A modern website concept with a clean layout, thoughtful typography and user-friendly experience."
     },
 
@@ -104,7 +104,7 @@ const projects = [
         id: 3,
         title: "Social Media Campaign",
         category: "GRAPHIC DESIGN",
-        image: "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=800",
+        image: "./images/Photo-5.jpg",
         description: "A creative visual campaign designed to make social media communication more attractive."
     }
 
